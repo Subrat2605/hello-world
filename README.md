@@ -1,2 +1,6 @@
 # hello-world
-just a new repository
+
+Hi humans,
+
+Steve here, I'm on moon right now.
+I love to eat tacos.
